@@ -1,4 +1,4 @@
-# CSS-DEBUG IN ANY WEBSITE
+### CSS-DEBUG IN ANY WEBSITE
 
 1. Go to zaydek.github.io/debug.css
 2. Bookmark “Debug CSS” (just simply drag the lint to your Bookmarks Bar)
