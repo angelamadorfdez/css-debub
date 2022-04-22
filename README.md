@@ -12,3 +12,8 @@ About Zaydek:
 - https://github.com/zaydek-old
 - https://github.com/zaydek
 - https://zaydek.github.io/
+
+
+| Debugger OFF | Debugger ON |
+|--------------|-------------|
+|<img width="500" alt="CleanShot 2022-04-23 at 01 19 35@2x" src="https://user-images.githubusercontent.com/22046823/164816509-50f89cd7-6a71-4519-aa42-14c82fc2fdf9.png"> | <img width="500" alt="CleanShot 2022-04-23 at 01 19 20@2x" src="https://user-images.githubusercontent.com/22046823/164816495-4c46e3fc-a3c1-46c3-9baf-a4b9b001a614.png"> |
