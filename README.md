@@ -1,6 +1,6 @@
 ### CSS-DEBUG IN ANY WEBSITE
 
-1. Go to [zaydek.github.io/debug.css](zaydek.github.io/debug.css)
+1. Go to [zaydek.github.io/debug.css](https://zaydek.github.io/debug.css)
 2. Bookmark “Debug CSS” (just simply drag the lint to your Bookmarks Bar)
 2. Click the bookmark to toggle it *on* and *off* ?
 
